@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "507343801435",
+    "project_id": "votingsystem-bd00a",
+    "storage_bucket": "votingsystem-bd00a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507343801435:android:603ad85ea9979b9aac037e",
+        "android_client_info": {
+          "package_name": "com.example.HeartOfExperian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYSCAi9L--xn738MSZ_j01bX3cFH1QvY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507343801435:android:1f406f1b6ed80382ac037e",
+        "android_client_info": {
+          "package_name": "com.example.ntu_news"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYSCAi9L--xn738MSZ_j01bX3cFH1QvY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507343801435:android:a02ff26225a4ee1eac037e",
+        "android_client_info": {
+          "package_name": "com.example.voting_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYSCAi9L--xn738MSZ_j01bX3cFH1QvY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
