@@ -12,4 +12,6 @@ A video demo of the app can be found here:
 ## 🏆 Why It Matters  
 This app was developed as part of a **university module at NTU**, with the goal of making volunteering more **accessible, rewarding and engaging**. It showcases skills in **mobile app development, UI/UX design and data management**, all while promoting social good.  
 
+## 🥇 Grade achieved = First
+
 **Developed by Hannah Jones**  
